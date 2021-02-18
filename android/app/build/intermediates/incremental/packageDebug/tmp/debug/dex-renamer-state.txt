@@ -1,0 +1,4 @@
+#Thu Feb 18 17:32:37 CST 2021
+base.0=/Users/qitmac000970/Documents/Qunar/painfully-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
